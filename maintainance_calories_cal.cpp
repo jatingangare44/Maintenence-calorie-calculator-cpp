@@ -102,7 +102,7 @@ int main()
 	cout<<"Roll : 2452\n";
     cout<<"Name : [Your Name]\n";
     cout<<"class : FY.IT / A\n\n";
-    cout<<"Project by @ jatin_gangare";
+    cout<<"Project by @ jatin_gangare"<<endl;
     cout<<"----------- Maintainance Calorie calculator -------------\n\n";
 	calculator c;
 	c.displaydata();
